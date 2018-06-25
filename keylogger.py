@@ -9,7 +9,6 @@
 
 from pynput.keyboard import Key, Listener
 import logging
-import time
 
 #|-------------------------------------------------------------------|
 #|                             file log                              |
